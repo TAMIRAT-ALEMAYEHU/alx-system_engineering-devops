@@ -1,1 +1,1 @@
-#This is sheel project reademe file
+# This is reade file of root directory in shell permission project
