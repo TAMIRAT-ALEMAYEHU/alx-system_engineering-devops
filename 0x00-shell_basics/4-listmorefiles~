@@ -1,0 +1,2 @@
+#!/bin/bash Hiden files
+ls -la
