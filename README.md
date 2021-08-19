@@ -1,1 +1,1 @@
-# This is reade file of root directory in shell permission project
+# Welcome to my shel project
