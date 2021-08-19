@@ -1,1 +1,1 @@
-this is my first commit of the root directory
+This is the root directory readme file
