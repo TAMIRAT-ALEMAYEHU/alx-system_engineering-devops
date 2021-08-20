@@ -1,2 +1,2 @@
-#!/bin/bash This is listing
-ls \n
+#!/bin/bash 
+ls
