@@ -1,2 +1,2 @@
-#!/bin/bash   $ I love numbers
--l id -u -la
+#!/bin/bash  
+-l id -u -la \n
