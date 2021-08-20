@@ -1,3 +1,2 @@
 #!/bin/bash $  My name is betty
-su -l bett
-y
+echo "betty
