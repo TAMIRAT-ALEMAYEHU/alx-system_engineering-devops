@@ -1,1 +1,1 @@
-# This is the root directory, that contains all project files with in it.
+This is current working directory displaying script
