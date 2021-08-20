@@ -1,2 +1,2 @@
-#!/bin/bash
-$ ls -la \n
+#!/bin/bash $This is prints more files
+$ls -al /n

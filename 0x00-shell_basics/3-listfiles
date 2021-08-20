@@ -1,2 +1,2 @@
-#!/bin/bash 
-$ls -l \n
+#!/bin/bash  $This is listing 
+$ls -l /n
