@@ -1,2 +1,2 @@
 #!/bin/bash
-$ sudo -u <betti> -s\n
+ chown hello betty
