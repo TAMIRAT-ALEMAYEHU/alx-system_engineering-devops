@@ -1,2 +1,2 @@
 #!/bin/bash
- env | printenv | typeset -f 
+ printenv | typeset -f 
