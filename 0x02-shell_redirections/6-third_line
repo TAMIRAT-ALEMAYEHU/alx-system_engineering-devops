@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /root/iacta | awk 'NR==3' \n 
+cat /root/iacta | awk 'NR==3' 
