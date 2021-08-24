@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /tmp | wc -l
+ls /tmp | wc -l  
