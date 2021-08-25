@@ -1,3 +1,4 @@
 #!/bin/bash 
-echo"Reverse" | rev
+read Reverse
+echo $Reverse | rev
 
