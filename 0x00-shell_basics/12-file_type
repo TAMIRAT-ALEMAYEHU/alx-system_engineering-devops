@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/ iamafile id -G   
+file /tmp/iamafile
